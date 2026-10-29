@@ -1,3 +1,5 @@
+#Author: Neha K
+#Created on: 30-Oct-2026
 # sql-to-python-analytics
 A collection of analytical SQL problems translated into Python/Pandas.
 
